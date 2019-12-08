@@ -5,3 +5,6 @@ A simple constraint program to solve the most complicated chicken wings menu imp
 
 # How to run
 Clone the repository and [download](https://github.com/chocoteam/choco-solver/releases/tag/4.10.2) and [install the choco solver](https://choco-solver.readthedocs.io/en/latest/1_overview.html#adding-choco-solver-to-your-project).
+
+# Problems
+It can't quite compute high amounts of wings. Some optimizations to the model can still be made to improve the search algorithm.
